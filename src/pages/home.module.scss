@@ -1,8 +1,11 @@
 .posts {
   margin-top:2em;
 
+
   > a {
     display:block;
+    border-bottom: 1px solid rgba(204, 204, 204, 0.356);
+    padding: 1px;
   }
 
   a + a {
@@ -19,6 +22,8 @@
   }
 
 }
+
+
 
 .post {
 

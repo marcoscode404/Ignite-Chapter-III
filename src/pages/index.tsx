@@ -118,7 +118,7 @@ export default function Home({
   return (
     <>
       <Head>
-        <title>Home | spacetraveling</title>
+        <title>Home | ColabDevs</title>
       </Head>
 
       <main className={commonStyles.container}>
